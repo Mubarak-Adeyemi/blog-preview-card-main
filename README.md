@@ -29,10 +29,11 @@ Users should be able to:
 
 ### Screenshot
 
--![Screenshot 1](/blog-preview-card-main/assets/Screenshot_20240820_221226_Spck
-Editor.jpg) -![Screenshot 2](/blog-preview-card-main/assets/Screenshot_20240820_221343_Spck
-Editor.jpg) -![Screenshot 3](/blog-preview-card-main/assets/Screenshot_20240820_221359_Spck
-Editor.jpg)
+-![Screenshot 1](./assets/iPad-Mini-127.0.0.1.png)
+
+-![Screenshot 2](./assets/iPhone-13-Mini-127.0.0.1.png)
+
+-![Screenshot 3](./assets/Macbook-Air-127.0.0.1.png)
 
 ### Links
 
