@@ -79,8 +79,9 @@ img {
   margin-left: 10px;
 }
 .attribution {
-  margin-top: 20px;
-  font-size: 11px;
+  margin-top: 10px;
+  font-size: 8px;
+  text-align: center;
 }
 
 @media screen and (max-width: 400px) {
